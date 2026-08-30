@@ -1,5 +1,5 @@
 /*Program(5)-> Write a program to calculate the average of three numbers.
-Solution-> Pred-defined Values*/
+Solution-> Pre-defined Values*/
 #include <stdio.h>
 
 int main()
